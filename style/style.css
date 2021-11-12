@@ -156,7 +156,7 @@ body {
     }
 }
 
-@media (min-width:1290px) {
+@media (min-width:1070px) {
     .card {
         padding-bottom: 1.65em;
     }
